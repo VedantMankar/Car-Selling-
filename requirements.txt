@@ -10,7 +10,7 @@ pickleshare==0.7.5
 requests==2.23.0
 jsonify==0.5
 Flask==1.1.2
-certifi==2020.6.20
+certifi==2022.12.7
 chardet==3.0.4
 click==7.1.2
 idna==2.10
